@@ -40,9 +40,6 @@ In PaddleRight (Negative button - down and positive buttom - up) and paddleLeft(
 After completing, to move the ball, in the ball inspector give the value for speed
  
  ## Program:
- Name: KAVIYA SHREE S
- 
- Reg no: 212222110018
 
 # GameManager:
 ```
